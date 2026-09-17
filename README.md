@@ -1,6 +1,6 @@
 # HTML-LAB
 
-Starter repository with basic HTML pages.
+My personal starter repository with basic HTML pages.
 
 Structure:
 - index.html
